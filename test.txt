@@ -1,0 +1,4 @@
+Book
+Chair
+Desk
+Table
